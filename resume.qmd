@@ -1,89 +1,42 @@
 ---
 layout: cv
-title: Isaac Newtons's CV
+title: Chandler Blacker's CV
 ---
-# Isaac Newton
-Physicist, Mathematician, Cambridge professor.
-
-<div id="webaddress">
-<a href="isaac@applesdofall.org">isaac@applesdofall.org</a>
-| <a href="http://en.wikipedia.org/wiki/Isaac_Newton">My wikipedia page</a>
-</div>
-
-
-## Currently
-
-Standing on the shoulders of giants
-
-### Specialized in
-
-Laws of motion, gravitation, minting coins, disliking [Robert Hooke](http://en.wikipedia.org/wiki/Robert_Hooke)
-
-
-### Research interests
-
-Cooling, power series, optics, alchemy, planetary motions, apples.
-
-
-## Education
-
-`1654-1660`
-__The King's School, Grantham.__
-
-`June 1661 - now`
-__Trinity College, Cambridge__
-
-- Sizar
-
-`1667 - death`
-__Trinity College, Cambridge__
-
-- Fellow
-
-
-
-## Awards
-
-`2012`
-President, *Royal Society*, London, UK
-
-Associate, *French Academy of Science*, Paris, France
-
-
-
-## Publications
-
-<!-- A list is also available [online](http://scholar.google.co.uk/citations?user=LTOTl0YAAAAJ) -->
-
-### Journals
-
-`1669`
-Newton Sir I, De analysi per æquationes numero terminorum infinitas. 
-
-`1669`
-Lectiones opticæ.
-
-etc. etc. etc.
-
-### Patents
-
-`2012`
-Infinitesimal calculus for solutions to physics problems, [SMBC](http://www.techdirt.com/articles/20121011/09312820678/if-patents-had-been-around-time-newton.shtml) patent 001
-
-
-## Occupation
-
-`1600`
-__Royal Mint__, London
-
-- Warden
-- Minted coins
-
-`1600`
-__Lucasian professor of Mathematics__, Cambridge University
-
-
-
-<!-- ### Footer
-
-Last updated: May 2013 -->
+CHANDLER BLACKER 
+Rexburg, ID | 214-854-5205 | chandlerblacker@gmail.com 
+LinkedIn: linkedin.com/in/chandler-blacker 
+PROFESSIONAL SUMMARY 
+Business Analytics student (GPA: 3.9) with experience analyzing operational data, developing dashboards, and supporting business decision-making 
+using SQL, Excel, Python, and Power BI. Strong foundation in data cleaning, reporting, visualization, and relational databases with international 
+leadership experience collaborating across diverse teams. Fluent in English, Spanish, and Guarani. 
+EDUCATION 
+Brigham Young University–Idaho | B.S. Business Analytics | Expected July 2027 | GPA: 3.9 
+Relevant Coursework: Business Intelligence, Database Management, Data Visualization, Business Forecasting, Statistical Analysis, Marketing Analytics 
+TECHNICAL SKILLS 
+Programming: SQL, Python (Pandas, NumPy), R 
+Business Intelligence: Power BI, DAX, Power Query, Excel (PivotTables, Solver, VBA) 
+Analytics: Data Cleaning, ETL Concepts, Exploratory Data Analysis, KPI Development, Dashboard Design, Forecasting 
+Professional: Business Analysis, Stakeholder Communication, Process Improvement, Technical Documentation 
+ANALYTICS PROJECTS 
+Retail Profitability Intelligence Dashboard | Power BI 
+• Imported, cleaned, and transformed retail sales data using Power Query. 
+• Designed a relational data model connecting Orders, Returns, and People tables. 
+• Developed DAX measures for Total Sales, Total Profit, Profit Margin, and Order Count. 
+• Built interactive dashboards analyzing regional performance, sales trends, and profitability. 
+Financial Forecasting & Budget Analysis | Excel 
+• Built a forecasting model using historical financial data. 
+• Created dashboards comparing projected and actual performance to support budgeting decisions. 
+• Applied historical trend analysis to identify spending patterns. 
+Customer Segmentation Analysis | SQL 
+• Wrote SQL queries using joins, aggregations, and filtering to identify customer segments and purchasing trends. 
+PROFESSIONAL EXPERIENCE 
+Technology Specialist & Data Coordinator | Global Non-Profit Organization | Paraguay | 2024–2025 
+• Collected, cleaned, and maintained operational data supporting regional reporting and planning. 
+• Built recurring reports used by leadership to monitor operational performance and organizational metrics. 
+• Identified process improvement opportunities through data analysis and operational reviews. 
+• Improved recurring spreadsheet reporting processes to increase reporting consistency. 
+• Collaborated with cross-functional teams while supporting technology operations in English and Spanish. 
+Spreadsheet Analysis Teaching Assistant | Brigham Young University–Idaho 
+• Assisted students with Excel, dashboard development, forecasting, PivotTables, Solver, and advanced spreadsheet analysis. 
+Team Associate | In-N-Out Burger 
+• Worked in a fast-paced environment, trained new employees, and maintained quality and customer service standards.
