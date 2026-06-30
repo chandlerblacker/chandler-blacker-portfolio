@@ -3,20 +3,24 @@ layout: cv
 title: Chandler Blacker's CV
 ---
 CHANDLER BLACKER 
-Rexburg, ID | 214-854-5205 | chandlerblacker@gmail.com 
-LinkedIn: linkedin.com/in/chandler-blacker 
+Rexburg, ID | 214-854-5205
+LinkedIn: linkedin.com/in/chandler-blacker
+
 PROFESSIONAL SUMMARY 
 Business Analytics student (GPA: 3.9) with experience analyzing operational data, developing dashboards, and supporting business decision-making 
 using SQL, Excel, Python, and Power BI. Strong foundation in data cleaning, reporting, visualization, and relational databases with international 
 leadership experience collaborating across diverse teams. Fluent in English, Spanish, and Guarani. 
+
 EDUCATION 
 Brigham Young University–Idaho | B.S. Business Analytics | Expected July 2027 | GPA: 3.9 
 Relevant Coursework: Business Intelligence, Database Management, Data Visualization, Business Forecasting, Statistical Analysis, Marketing Analytics 
+
 TECHNICAL SKILLS 
 Programming: SQL, Python (Pandas, NumPy), R 
 Business Intelligence: Power BI, DAX, Power Query, Excel (PivotTables, Solver, VBA) 
 Analytics: Data Cleaning, ETL Concepts, Exploratory Data Analysis, KPI Development, Dashboard Design, Forecasting 
 Professional: Business Analysis, Stakeholder Communication, Process Improvement, Technical Documentation 
+
 ANALYTICS PROJECTS 
 Retail Profitability Intelligence Dashboard | Power BI 
 • Imported, cleaned, and transformed retail sales data using Power Query. 
@@ -29,6 +33,7 @@ Financial Forecasting & Budget Analysis | Excel
 • Applied historical trend analysis to identify spending patterns. 
 Customer Segmentation Analysis | SQL 
 • Wrote SQL queries using joins, aggregations, and filtering to identify customer segments and purchasing trends. 
+
 PROFESSIONAL EXPERIENCE 
 Technology Specialist & Data Coordinator | Global Non-Profit Organization | Paraguay | 2024–2025 
 • Collected, cleaned, and maintained operational data supporting regional reporting and planning. 
